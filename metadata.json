@@ -1,0 +1,10 @@
+{
+  "name": "percobaan vercel V2.3",
+  "description": "Portal Manajemen Terpadu Pesantren - Sistem Manajemen Terpadu untuk Kiai, Yayasan, dan Tabungan Uang Saku Cashless-Keamanan",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

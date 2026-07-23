@@ -1,0 +1,10 @@
+{
+  "collections": [
+    {
+      "name": "ponpesqu_data",
+      "description": "Database terpadu Pesantren PonpesQU",
+      "allowRead": "true",
+      "allowWrite": "true"
+    }
+  ]
+}
